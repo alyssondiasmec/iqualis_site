@@ -1398,7 +1398,7 @@ a:hover {
 /*     Contact     */
 /*******************/
 .form-2 {
-	padding-top: 8rem;
+	padding-top: 1rem;
 	padding-bottom: 7rem;
 }
 
@@ -1430,6 +1430,12 @@ a:hover {
 	vertical-align: 3%;
 }
 
+.contact-form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 100%;
+}
 
 /******************/
 /*     Footer     */
