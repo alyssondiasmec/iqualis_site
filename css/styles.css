@@ -27,7 +27,7 @@ Table Of Contents:
 Colors:
 - Backgrounds - light gray #fbfbfb
 - Navbar, footer - dark blue #153e52
-- Buttons, icons - green #14bf98
+- Buttons, icons - green #29a787
 - Headings text - black #484a46
 - Body text - dark gray #787976
 ******************************************/
@@ -143,11 +143,11 @@ a:hover {
 }
 
 .green {
-	color: #14bf98;
+	color: #29a787;
 }
 
 .section-title {
-	color: #14bf98;
+	color: #29a787;
 	font-weight: 700;
 	font-size: 0.8125rem;
 	line-height: 1.125rem;
@@ -156,9 +156,9 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-	border: 1px solid #14bf98;
+	border: 1px solid #29a787;
 	border-radius: 2px;
-	background-color: #14bf98;
+	background-color: #29a787;
 	color: #ffffff;
 	font-size: 0.875rem;
 	line-height: 0;
@@ -168,7 +168,7 @@ a:hover {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: #29a787;
 	/* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
@@ -176,9 +176,9 @@ a:hover {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-	border: 1px solid #14bf98;
+	border: 1px solid #29a787;
 	border-radius: 2px;
-	background-color: #14bf98;
+	background-color: #29a787;
 	color: #ffffff;
 	font-size: 0.875rem;
 	line-height: 0;
@@ -188,7 +188,7 @@ a:hover {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: #29a787;
 	/* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
@@ -196,10 +196,10 @@ a:hover {
 .btn-outline-reg {
 	display: inline-block;
 	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-	border: 1px solid #14bf98;
+	border: 1px solid #29a787;
 	border-radius: 2px;
 	background-color: transparent;
-	color: #14bf98;
+	color: #29a787;
 	font-size: 0.875rem;
 	line-height: 0;
 	text-decoration: none;
@@ -207,7 +207,7 @@ a:hover {
 }
 
 .btn-outline-reg:hover {
-	background-color: #14bf98;
+	background-color: #29a787;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -215,10 +215,10 @@ a:hover {
 .btn-outline-lg {
 	display: inline-block;
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-	border: 1px solid #14bf98;
+	border: 1px solid #29a787;
 	border-radius: 2px;
 	background-color: transparent;
-	color: #14bf98;
+	color: #29a787;
 	font-size: 0.875rem;
 	line-height: 0;
 	text-decoration: none;
@@ -226,7 +226,7 @@ a:hover {
 }
 
 .btn-outline-lg:hover {
-	background-color: #14bf98;
+	background-color: #29a787;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -234,10 +234,10 @@ a:hover {
 .btn-outline-sm {
 	display: inline-block;
 	padding: 1rem 1.5rem 1rem 1.5rem;
-	border: 1px solid #14bf98;
+	border: 1px solid #29a787;
 	border-radius: 2px;
 	background-color: transparent;
-	color: #14bf98;
+	color: #29a787;
 	font-size: 0.875rem;
 	line-height: 0;
 	text-decoration: none;
@@ -245,7 +245,7 @@ a:hover {
 }
 
 .btn-outline-sm:hover {
-	background-color: #14bf98;
+	background-color: #29a787;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -284,9 +284,9 @@ a:hover {
 	display: inline-block;
 	width: 100%;
 	height: 3.625rem;
-	border: 1px solid #14bf98;
+	border: 1px solid #29a787;
 	border-radius: 2px;
-	background-color: #14bf98;
+	background-color: #29a787;
 	color: #ffffff;
 	font-weight: 400;
 	font-size: 0.875rem;
@@ -296,9 +296,9 @@ a:hover {
 }
 
 .form-control-submit-button:hover {
-	border: 1px solid #14bf98;
+	border: 1px solid #29a787;
 	background-color: transparent;
-	color: #14bf98;
+	color: #29a787;
 }
 
 .modal-dialog {
@@ -436,7 +436,7 @@ a:hover {
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link:focus,
 .navbar .nav-item .nav-link.active {
-	color: #14bf98;
+	color: #29a787;
 }
 
 /* Dropdown Menu */
@@ -473,7 +473,7 @@ a:hover {
 
 .navbar .dropdown-item:hover {
 	background-color: #153e52;
-	color: #14bf98;
+	color: #29a787;
 }
 
 .navbar .dropdown-divider {
@@ -493,7 +493,7 @@ a:hover {
 }
 
 .navbar .fa-stack-2x {
-	color: #14bf98;
+	color: #29a787;
 	transition: all 0.2s ease;
 }
 
@@ -507,7 +507,7 @@ a:hover {
 }
 
 .navbar .fa-stack:hover .fa-stack-1x {
-	color: #14bf98;
+	color: #29a787;
 }
 
 .navbar .navbar-toggler {
@@ -523,7 +523,7 @@ a:hover {
 .header {
 	padding-top: 10rem;
 	padding-bottom: 8.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/back_health.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -686,7 +686,7 @@ a:hover {
 }
 
 .cards-2 .list-unstyled .fas {
-	color: #14bf98;
+	color: #29a787;
 	font-size: 0.375rem;
 	line-height: 1.625rem;
 }
@@ -703,7 +703,7 @@ a:hover {
 }
 
 .cards-2 .card-body .price span {
-	color: #14bf98;
+	color: #29a787;
 }
 
 .cards-2 .button-wrapper {
@@ -758,7 +758,7 @@ a:hover {
 	width: 2.25rem;
 	height: 2.25rem;
 	border-radius: 50%;
-	background-color: #14bf98;
+	background-color: #29a787;
 	color: #ffffff;
 	font-weight: 700;
 	font-size: 1rem;
@@ -834,7 +834,7 @@ a:hover {
 
 .tabs-1 .nav-link:hover,
 .tabs-1 .nav-link.active {
-	color: #14bf98;
+	color: #29a787;
 }
 
 .tabs-1 .nav-link .fas {
@@ -863,7 +863,7 @@ a:hover {
 .tabs-1 #tab-1 .progress-bar {
 	display: block;
 	padding-left: 1.5rem;
-	background: linear-gradient(to bottom right, #14bf98, #1bd1a7);
+	background: linear-gradient(to bottom right, #29a787, #1bd1a7);
 }
 
 .tabs-1 #tab-1 .progress-bar.first {
@@ -889,7 +889,7 @@ a:hover {
 }
 
 .tabs-1 #tab-2 .list-unstyled .bullet-number {
-	color: #14bf98;
+	color: #29a787;
 	font-weight: 700;
 	font-size: 2rem;
 	line-height: 2rem;
@@ -904,7 +904,7 @@ a:hover {
 }
 
 .tabs-1 #tab-3 .list-unstyled .fas {
-	color: #14bf98;
+	color: #29a787;
 	font-size: 0.375rem;
 	line-height: 1.625rem;
 }
@@ -1016,7 +1016,7 @@ a:hover {
 }
 
 .form-1 .list-unstyled .fas {
-	color: #14bf98;
+	color: #29a787;
 	font-size: 0.375rem;
 	line-height: 1.625rem;
 }
@@ -1092,12 +1092,12 @@ a:hover {
 }
 
 .filter .button-group .button:hover {
-	background-color: #14bf98;
+	background-color: #29a787;
 	color: #ffffff;
 }
 
 .filter .button-group .button.is-checked {
-	background-color: #14bf98;
+	background-color: #29a787;
 	color: #ffffff;
 }
 
@@ -1228,7 +1228,7 @@ a:hover {
 /*     Team     */
 /****************/
 .card-2 {
-	padding-top: 7.75rem;
+	padding-top: 1rem;
 	padding-bottom: 4.25rem;
 	text-align: center;
 }
@@ -1294,7 +1294,7 @@ a:hover {
 }
 
 .card-2 .fa-circle {
-	color: #14bf98;
+	color: #29a787;
 	transition: all 0.2s ease;
 }
 
@@ -1307,7 +1307,7 @@ a:hover {
 }
 
 .card-2 .fa-stack:hover .fab {
-	color: #14bf98;
+	color: #29a787;
 }
 
 
@@ -1353,7 +1353,7 @@ a:hover {
 }
 
 .counter .list-unstyled .fas {
-	color: #14bf98;
+	color: #29a787;
 	font-size: 0.375rem;
 	line-height: 1.625rem;
 }
@@ -1380,7 +1380,7 @@ a:hover {
 
 .counter .counter-container .purecounter {
 	margin-bottom: 0.125rem;
-	color: #14bf98;
+	color: #29a787;
 	font-weight: 700;
 	font-size: 2.875rem;
 	line-height: 3.25rem;
@@ -1423,7 +1423,7 @@ a:hover {
 .form-2 .list-unstyled .fab {
 	margin-right: 0.5rem;
 	font-size: 0.875rem;
-	color: #14bf98;
+	color: #29a787;
 }
 
 .form-2 .list-unstyled .fa-phone {
@@ -1491,7 +1491,7 @@ a:hover {
 }
 
 .footer .footer-col.third .fa-stack:hover .fa-stack-1x {
-	color: #14bf98;
+	color: #29a787;
 }
 
 
@@ -1530,7 +1530,7 @@ a:hover {
 }
 
 #myBtn:hover {
-	background-color: #14bf98;
+	background-color: #29a787;
 }
 
 #myBtn img {
@@ -1553,7 +1553,7 @@ a:hover {
 }
 
 .ex-basic-1 .list-unstyled .fas {
-	color: #14bf98;
+	color: #29a787;
 	font-size: 0.375rem;
 	line-height: 1.625rem;
 }
@@ -1578,7 +1578,7 @@ a:hover {
 }
 
 .ex-cards-1 .card .fa-stack-2x {
-	color: #14bf98;
+	color: #29a787;
 }
 
 .ex-cards-1 .card .fa-stack-1x {
